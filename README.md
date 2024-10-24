@@ -10,10 +10,7 @@ Download the code:
 Place all the code files in a folder, for example, a folder named multiview.
 
 Download the data:
-Download the dataset and place it in a folder named data inside the multiview folder. The folder structure should look like this:
-multiview/
-├── data/ (downloaded data goes here)
-└── *.m (code files)
+Download the dataset and place it in a folder named data inside the multiview folder. 
 
 Description:
 
