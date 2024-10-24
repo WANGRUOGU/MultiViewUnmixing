@@ -1,4 +1,4 @@
-Multi-View Spectral Unmixing Code and Data
+Multi-View Learning for Biological Spectral Unmixing Code and Data
 
 Data Location:
 The data used in this project is available for download at the following link:
