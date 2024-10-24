@@ -21,10 +21,15 @@ Images of 13 labeled E. coli cells captured using multiple views and mixed biolo
 Code (.m files):
 
 demo.m – A demonstration script that showcases multi-view spectral unmixing on the provided data.
+
 DisplayA.m – A function for visualizing or displaying abundance maps.
+
 find_max_nonzero_submatrix.m – A function to find the largest non-zero submatrix in an image.
+
 NLS.m – Implements Non-negative Least Squares for spectral unmixing.
+
 NMF.m – Performs Non-negative Matrix Factorization for extracting endmembers.
+
 removeBackground.m – Removes background noise from an image for cleaner analysis.
 
 
